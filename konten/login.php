@@ -4,7 +4,7 @@
     <h1 class="h3 mb-3 fw-normal text-center">Please Login</h1>
     <form action="loginproc.php" method="post">
         <div class="form-floating">
-            <label for="username">Email address</label>
+            <label for="username">Username</label>
             <input type="text" class="form-control" name="username" id="username">
             
         </div>

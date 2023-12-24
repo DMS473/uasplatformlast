@@ -18,7 +18,7 @@
         <th scope="col">Selesai</th>
         <th scope="col">Biaya</th>
         <th scope="col">Stop</th>
-        <th>Tols</td>
+        <!-- <th>Tols</td> -->
       </tr>
     </thead>
 
@@ -46,9 +46,9 @@
           <td ><?php echo $buff['jk']; ?></td> -->
         <!-- <td "><?php echo $buff['email']; ?></td>
           <td "><?php echo $buff['notel']; ?></td> -->
-        <td><a href="?id=<?php echo $buff['id']; ?>&module=detailPinjam#pos"><button type="button" class="btn btn-success btn-sm">Detail</button></a>
+        <!-- <td><a href="?id=<?php echo $buff['id']; ?>&module=detailPinjam#pos"><button type="button" class="btn btn-success btn-sm">Detail</button></a>
           <a href="deletePinjam.php?id=<?php echo $buff['id']; ?>"><button type="button" class="btn btn-danger btn-sm">Hapus</button></a>
-        </td>
+        </td> -->
       </tr>
 
 

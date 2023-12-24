@@ -56,7 +56,7 @@
     ?>
   </table>
   <br>
-  <a href="index.php"><---- Kembali ke Index</a>
+  <!-- <a href="index.php"><---- Kembali ke Index</a> -->
 </body>
 
 </html>

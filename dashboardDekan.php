@@ -128,10 +128,10 @@ img{
         <ul id="navmenu">
             <li><a href="dashboardDekan.php" class="selected">Home</a></li>
             <li><a href="?module=home#pos">Buku yang tersedia</a></li>
-            <li><a href="?module=bukuDipinjam#pos">Buku yang dipinjam</a></li>
-            <!-- <li><a href="?module=insertBuku#pos">Insert Buku</a></li> -->
-            <!-- <li><a href="?module=viewUser#pos">view User</a></li>
-            <li><a href="?module=searchUser#pos">search User</a></li>
+            <li><a href="?module=bukuDipinjam#pos">Total Pinjaman</a></li>
+            <li><a href="?module=viewPinjamDekan#pos">Daftar Pinjaman</a></li>
+            <li><a href="index.php">Logout</a></li>
+            <!-- <li><a href="?module=searchUser#pos">search User</a></li>
             <li><a href="?module=insertUser#pos">Insert User</a></li>
             <li><a href="?module=viewPinjam#pos">View Pinjam</a></li>
             <li><a href="?module=insertPinjam#pos">Insert Pinjam</a></li> -->
@@ -160,7 +160,7 @@ img{
         <div id="clear"></div>
 
         <div id="footer">
-            <p>&copy; 2010</p>
+            <p>&copy; 2023</p>
         </div>
 </div>
 

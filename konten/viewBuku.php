@@ -36,7 +36,7 @@
           <td><?php echo $id; ?></td>
           <td><?php echo $buff['judul']; ?></td>
           <td><?php echo $buff['stock']; ?></td>
-          <td><a href="?id=<?php echo $buff['id']; ?>&module=edit#pos"><button type="button" class="btn btn-warning btn-sm" >Edit</button></a>
+          <td><a href="?id=<?php echo $buff['id']; ?>&module=editBuku#pos"><button type="button" class="btn btn-warning btn-sm" >Edit</button></a>
             <a href="deleteBuku.php?id=<?php echo $buff['id']; ?>"><button type="button" class="btn btn-danger btn-sm">Hapus</button>
             </a>
           </td>
@@ -44,7 +44,7 @@
     <?php endwhile; ?>
   </table>
   <br>
-  <a href="index.php"><---- Kembali ke Index</a>
+  <!-- <a href="index.php"><---- Kembali ke Index</a> -->
 </body>
 
 </html>

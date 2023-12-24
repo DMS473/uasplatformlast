@@ -24,6 +24,6 @@ $select = mysqli_query($conn, "select sum(hitung) FROM pinjams where isFinished=
   <h2>Total Buku yang sedang dipinjam <?php echo $result['sum(hitung)']; ?></h2>
 
 <br>
-      <a href="index.php"><---- Kembali ke Index</a>
+      <!-- <a href="index.php"><---- Kembali ke Index</a> -->
   </body>
 </html>

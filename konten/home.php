@@ -40,6 +40,6 @@ while ($buff = mysqli_fetch_array($select)) { ?>
      </div>
      </div>
 <br>
-      <a href="index.php"><---- Kembali ke Index</a>
+      <!-- <a href="index.php"><---- Kembali ke Index</a> -->
   </body>
 </html>

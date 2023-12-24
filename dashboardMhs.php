@@ -56,7 +56,7 @@
         <div id="clear"></div>
 
         <div id="footer" class="container">
-            <p>&copy; 2010</p>
+            <p>&copy; 2023</p>
         </div>
 
 

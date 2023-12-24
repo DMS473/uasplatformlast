@@ -135,6 +135,7 @@ img{
             <li><a href="?module=insertUser#pos">Insert User</a></li>
             <li><a href="?module=viewPinjam#pos">View Pinjam</a></li>
             <li><a href="?module=insertPinjam#pos">Insert Pinjam</a></li>
+            <li><a href="index.php">Logout</a></li>
         </ul>
         <br>
         <!-- <div id="login">
@@ -160,7 +161,7 @@ img{
         <div id="clear"></div>
 
         <div id="footer">
-            <p>&copy; 2010</p>
+            <p>&copy; 2023</p>
         </div>
 </div>
 
