@@ -49,9 +49,9 @@
                         echo "<td>" . $dataC['role'] . "</td>";
                         echo "<td>";
                         // echo "<a href='edit.php?id=" . $dataC['id'] . "'>Edit</a> | ";
-                        echo "<a href='?id=" . $dataC["id"] . "&module=edit#pos'><button type='button' class='btn btn-warning btn-sm'>Edit</button></a> ";
+                        echo "<a href='?id=" . $dataC["id"] . "&module=editUser#pos'><button type='button' class='btn btn-warning btn-sm'>Edit</button></a> ";
 
-                        echo "<a href='delete.php?id=" . $dataC['id'] . "'><button type='button' class='btn btn-danger btn-sm'>Hapus</button></a>";
+                        echo "<a href='deleteUser.php?id=" . $dataC['id'] . "'><button type='button' class='btn btn-danger btn-sm'>Hapus</button></a>";
                         echo "</td>";
 
                         echo "</tr>";

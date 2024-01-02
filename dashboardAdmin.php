@@ -135,6 +135,8 @@ img{
             <li><a href="?module=insertUser#pos">Insert User</a></li>
             <li><a href="?module=viewPinjam#pos">View Pinjam</a></li>
             <li><a href="?module=insertPinjam#pos">Insert Pinjam</a></li>
+            <li><a href="?module=laporanAnggota#pos">Laporan Anggota</a></li>
+            <li><a href="?module=laporanPinjam#pos">Laporan Pinjam</a></li>
             <li><a href="index.php">Logout</a></li>
         </ul>
         <br>

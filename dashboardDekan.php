@@ -129,7 +129,9 @@ img{
             <li><a href="dashboardDekan.php" class="selected">Home</a></li>
             <li><a href="?module=home#pos">Buku yang tersedia</a></li>
             <li><a href="?module=bukuDipinjam#pos">Total Pinjaman</a></li>
-            <li><a href="?module=viewPinjamDekan#pos">Daftar Pinjaman</a></li>
+            <!-- <li><a href="?module=viewPinjamDekan#pos">Daftar Pinjaman</a></li> -->
+            <li><a href="?module=laporanAnggota#pos">Laporan Anggota</a></li>
+            <li><a href="?module=laporanPinjam#pos">Laporan Pinjam</a></li>
             <li><a href="index.php">Logout</a></li>
             <!-- <li><a href="?module=searchUser#pos">search User</a></li>
             <li><a href="?module=insertUser#pos">Insert User</a></li>
